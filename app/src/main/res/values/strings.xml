@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Nanoleaf 灯带</string>
+    <string name="tile_name">灯带开关</string>
+</resources>

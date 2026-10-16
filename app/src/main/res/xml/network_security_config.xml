@@ -1,0 +1,4 @@
+<network-security-config>
+    <!-- The light's local API only speaks HTTP. Endpoint validation is in Endpoint. -->
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
